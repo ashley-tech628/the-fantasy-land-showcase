@@ -1,0 +1,67 @@
+{
+  "edition": "Documentation and demonstration only; no gameplay source, plugins or Unity project export",
+  "screenshots": {
+    "library.png": {
+      "source": "Final project presentation",
+      "slide": 5
+    },
+    "forest.png": {
+      "source": "Final project presentation",
+      "slide": 5
+    },
+    "temple.png": {
+      "source": "Final project presentation",
+      "slide": 5
+    },
+    "boss-arena.png": {
+      "source": "Final project presentation",
+      "slide": 5
+    },
+    "inventory-panel.png": {
+      "source": "Final project presentation",
+      "slide": 24
+    },
+    "task-panel.png": {
+      "source": "Final project presentation",
+      "slide": 24
+    },
+    "controls-panel.png": {
+      "source": "Final project presentation",
+      "slide": 24
+    },
+    "character-main.png": {
+      "source": "Final project presentation",
+      "slide": 9
+    },
+    "character-alternate.png": {
+      "source": "Final project presentation",
+      "slide": 9
+    },
+    "diary.png": {
+      "source": "Final project presentation",
+      "slide": 10
+    },
+    "satisfaction-survey.png": {
+      "source": "Final project presentation",
+      "slide": 34
+    },
+    "movement-poster.png": {
+      "source": "Final project presentation",
+      "slide": 22
+    },
+    "combat-poster.png": {
+      "source": "Final project presentation",
+      "slide": 22
+    }
+  },
+  "videos": {
+    "movement-demo.mp4": {
+      "source": "Presentation slide 22 embedded gameplay clip",
+      "source_media": "media10.mp4"
+    },
+    "combat-demo.mp4": {
+      "source": "Presentation slide 22 embedded gameplay clip",
+      "source_media": "media16.mp4"
+    }
+  }
+}
