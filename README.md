@@ -1,4 +1,4 @@
-# The Fantasy Land
+﻿# The Fantasy Land
 
 **A Unity 3D adventure that combines exploration, combat, puzzles and persistent player progression in a dark fairy-tale world.**
 
@@ -10,6 +10,14 @@ This repository presents the completed course project through authentic screensh
 
 ![The project's library scene](assets/library.png)
 
+## Full Demo Video
+
+[![Full narrated game demo](assets/library.png)](https://github.com/ashley-tech628/the-fantasy-land-showcase/releases/download/full-demo-v1/demo.mp4)
+
+**[Watch / download the full demo video](https://github.com/ashley-tech628/the-fantasy-land-showcase/releases/download/full-demo-v1/demo.mp4)** · Original Group 7 narrated gameplay demonstration · 809 MiB.
+
+The complete recording is hosted as a GitHub Release asset. The short gameplay clips below provide smaller previews.
+
 ## Demo videos
 
 Click a preview to open an original gameplay clip extracted from the final presentation.
@@ -19,7 +27,7 @@ Click a preview to open an original gameplay clip extracted from the final prese
 | [![Movement demo](assets/movement-poster.png)](media/movement-demo.mp4) | [![Combat demo](assets/combat-poster.png)](media/combat-demo.mp4) |
 | [Watch demo video](media/movement-demo.mp4) | [Watch demo video](media/combat-demo.mp4) |
 
-The clips are historical recordings of the team game, not a newly rebuilt version. The full narrated recording remains separate from this repository.
+The clips and full demo are historical recordings of the team game, not a newly rebuilt version. The complete recording is available in the linked GitHub Release.
 
 ## Game experience
 
@@ -180,4 +188,5 @@ Application source, Unity projects, plugin binaries, raw asset packs, private ac
 The project was created by **Group 7**: Chen Yijun, Wei Jinyue, Liu Xinying, Fu Yidi, Niu Zhuoqun and Cao Shihao. My individual contribution is described above and in the evidence notes.
 
 Screenshots and videos document the team game. Third-party artwork, models, UI and plugins retain their original rights; this repository is not an asset redistribution license. [Credits and evidence](docs/EVIDENCE.md).
+
 
