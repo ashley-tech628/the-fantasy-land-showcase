@@ -37,6 +37,23 @@ The protagonist moves from a library into a fairy-tale world where familiar char
 
 The manual and final presentation reflect revisions to chapter naming and ordering. The guide here follows the final gameplay material rather than implying that every early design detail shipped unchanged.
 
+### Chapters and levels
+
+The final player manual names the progression as follows:
+
+1. **Little Red Riding Hood** — the opening library chapter.
+2. **The Fantasy Forest** — Pinocchio's Cabin, the Fighting Territory and a Labyrinth of Optical Illusions.
+3. **Lost Temple** — help the Queen by collecting scattered gems.
+4. **Match of the Century** — the final confrontation.
+
+### Input and gameplay guidance
+
+Players can switch between keyboard/mouse and gamepad input. Keyboard controls include WASD movement, Space to jump, Shift to run and the left mouse button to attack. The manual maps gamepad A/B/X to acceleration, jumping and attack, with movement/view controls on the sticks.
+
+The player manual also describes destination guidance through pathfinding and real-time distance prompts. Enemy patrol/tracking behavior is discussed in the final presentation. These are gameplay systems; no learned enemy model or machine-learning adaptation result is claimed.
+
+The final presentation reports **10 CG animations** used for narrative continuity. Portal, shield and whirlpool particle effects support the game's visual feedback and atmosphere.
+
 ## My contributions
 
 My individual report documents responsibility for the project's task, inventory, save/load and account-login systems, together with UI authoring and the main character model.
@@ -147,6 +164,8 @@ The early design report specifies targets such as a five-second start and at lea
 | Local progress persistence | JSON |
 | Account data | MySQL; historical cloud database configuration |
 | Collaboration | Git and Plastic SCM |
+
+The engineering workflow connects Blender character production to Unity scenes and coordinates contributions through version control. JSON handles documented gameplay-state serialization; MySQL handles documented account data. The supplied reports do not establish JSON-driven content configuration or an ADO.NET cloud-checkpoint persistence layer.
 
 ## Repository contents
 
